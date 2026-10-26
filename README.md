@@ -1,0 +1,1 @@
+# -end-to-end-Home-SOC-lab-with-AI-integrated
